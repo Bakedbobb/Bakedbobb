@@ -22,7 +22,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML TEXT Binary
+          IGNORED_LANGUAGES: YAML JSON TOML TEXT Binary .env
           COMMIT_MESSAGE: new waka time stats
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
