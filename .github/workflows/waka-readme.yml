@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 21 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -22,7 +22,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML TXT .ENV
+          IGNORED_LANGUAGES: YAML JSON TOML TXT ENV
           COMMIT_MESSAGE: new waka time stats
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
