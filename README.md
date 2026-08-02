@@ -1,6 +1,6 @@
 # Hello there 👋 I'm Matt!
 ![Discord](https://img.shields.io/badge/Discord-bakedbobb-5865F2?style=for-the-badge&logo=discord)
-![Ko-fi](https://img.shields.io/badge/Ko--fi-Bakedbobb-FF6433?style=for-the-badge&logo=kofi&link=https%3A%2F%2Fko-fi.com%2Fbakedbobb)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Bakedbobb-FF6433?style=for-the-badge&logo=kofi)](https://ko-fi.com/bakedbobb)
 
 
 I’m a self-taught software developer from Poland 🇵🇱. I’ve been coding since 2020, building personal projects with a strong focus on open source and code quality. 
