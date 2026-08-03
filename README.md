@@ -1,5 +1,5 @@
 # Hello there 👋 I'm Matt!
-![Discord](https://img.shields.io/badge/Discord-bakedbobb-5865F2?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/badge/Discord-bakedbobb-5865F2?style=for-the-badge&logo=discord) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbakedbobb&label=Visitors&icon=github&color=%230a58ca&message=&style=for-the-badge&tz=Poland)
 
 I’m a self-taught software developer from Poland 🇵🇱. I’ve been coding since 2020, building personal projects with a strong focus on open source and code quality. 
 
