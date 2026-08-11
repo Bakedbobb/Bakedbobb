@@ -20,13 +20,13 @@ When I’m not studying or programming, I usually watch movies, mainly from the 
 <!--START_SECTION:waka-->
 
 ```java
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 2 hrs 18 mins
+Total Time: 2 hrs 47 mins
 
-Java             2 hrs 11 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   94.77 %
-JavaScript       6 mins                ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.47 %
-GitIgnore file   0 secs                ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.06 %
+Java             2 hrs 39 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   95.60 %
+JavaScript       6 mins                ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.70 %
+GitIgnore file   0 secs                ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.12 %
 ```
 
 <!--END_SECTION:waka-->
