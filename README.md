@@ -20,7 +20,7 @@ When I’m not studying or programming, I usually watch movies, mainly from the 
 <!--START_SECTION:waka-->
 
 ```java
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
 Total Time: 13 mins
 
